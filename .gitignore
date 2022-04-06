@@ -1,2 +1,8 @@
 #VSCode folder
 .vscode
+
+# API Testing
+src/testAPI.http
+
+# Node Modules
+node_modules
