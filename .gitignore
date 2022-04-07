@@ -2,7 +2,7 @@
 .vscode
 
 # API Testing
-src/testAPI.http
+src/test.http
 
 # Node Modules
 node_modules
