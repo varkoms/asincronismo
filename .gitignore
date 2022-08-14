@@ -1,8 +1,5 @@
 #VSCode folder
 .vscode
 
-# API Testing
-src/test.http
-
 # Node Modules
-node_modules
+/node_modules/

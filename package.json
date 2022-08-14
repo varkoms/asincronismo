@@ -1,0 +1,24 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Nuevo curso de Asincronismo de JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varkoms/asincronismo.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "asincronismo"
+  ],
+  "author": "TheVarko cmendozasoberanis@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/varkoms/asincronismo/issues"
+  },
+  "homepage": "https://github.com/varkoms/asincronismo#readme"
+}
