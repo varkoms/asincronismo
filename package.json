@@ -4,7 +4,7 @@
   "description": "Curso de Asincronismo de JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callbacks": "node src/callbacks/challenge.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/varkoms/asincronismo/issues"
   },
-  "homepage": "https://github.com/varkoms/asincronismo#readme"
+  "homepage": "https://github.com/varkoms/asincronismo#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }

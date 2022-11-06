@@ -15,5 +15,4 @@ setTimeout(function(){
 function gretting(name) {
   console.log(`Hola ${name}`);
 }
-
 setTimeout(gretting, 5000, 'Cesar');
